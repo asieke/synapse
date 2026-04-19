@@ -2,8 +2,10 @@
 
 @theme {
 	--color-ink: #0a0a0a;
+	--color-slate: #1f1f1f;
 	--color-paper: #f4ecd8;
 	--color-paper-deep: #ebe1c4;
+	--color-ash: #e5e5e5;
 	--color-acid: #d4ff00;
 	--color-hot: #ff3b30;
 	--color-cobalt: #1e40ff;
